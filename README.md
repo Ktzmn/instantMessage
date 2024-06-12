@@ -13,8 +13,8 @@ A work in progress project focusing on building an application that features rea
 - SignalR*
 
 ## Progress
-[X] Create progress section
-[] Update progress section with actual data
+- [x] Create progress section
+- [ ] Update progress section with actual data
 
 
 
