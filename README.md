@@ -2,7 +2,7 @@
 A plain old real-time messaging platform (WIP)
 
 ## Overview
-A work in progress project focusing on building an application that features real-time messaging across registered users. User authentication is done via a rather simplistic mechanism, which I choose to do so to gain insights on how to establish a secure user management mechanism.
+A work-in-progress project focusing on building an application that features real-time messaging for registered users. User authentication is implemented using a simplistic mechanism, which I chose to do to gain insights on how to establish a secure user management system.
 
 
 ## Technologies used
